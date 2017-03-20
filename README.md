@@ -1,2 +1,2 @@
-# HaskellLang
-Aprendendo programação funcional com Haskell
+# Haskell
+## Aprendendo programação funcional com Haskell
